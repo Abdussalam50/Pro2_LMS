@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Manajemen Pembelajaran (LMS)",
+  "description": "Aplikasi LMS untuk Mahasiswa, Dosen, dan Admin dengan fitur manajemen kelas, materi, dan diskusi.",
+  "requestFramePermissions": []
+}

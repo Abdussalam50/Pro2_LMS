@@ -1,0 +1,8 @@
+array (
+  'kelas_id' => '019cb717-a5e4-705f-9353-afb0d4cc117e',
+  'kelas' => 'Kelas A',
+  'kode' => 'KE-A112',
+  'mata_kuliah_id' => '019cb717-151c-70b9-a9c2-7b128e23f973',
+  'created_at' => '2026-03-04T04:25:06.000000Z',
+  'updated_at' => '2026-03-04T04:25:06.000000Z',
+)
